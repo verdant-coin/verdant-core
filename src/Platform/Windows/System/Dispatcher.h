@@ -8,6 +8,7 @@
 #include <functional>
 #include <map>
 #include <queue>
+#include <stdexcept>
 
 namespace System {
 
