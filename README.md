@@ -2,6 +2,15 @@
 
 Verdant is a cryptocurrency aimed at accessibility and adoption
 
+## Build
+
+```bash
+git clone https://github.com/verdant-coin/verdant-core
+cd verdant-core
+mkdir build ; cd build
+cmake ..
+make
+```
 
 ## Coin fundamentals
 
